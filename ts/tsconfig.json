@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "Node",
+        "baseUrl": "src",
+        "outDir": "distance",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "noEmit": true,
+        "allowImportingTsExtensions": true,
+    },
+    "include": ["src/**/*"],
+}
